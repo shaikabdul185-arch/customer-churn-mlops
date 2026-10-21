@@ -1,5 +1,4 @@
-# customer-churn-mlops
-End-to-End # End-to-End Customer Churn Prediction & MLOps Engine
+ # End-to-End Customer Churn Prediction & MLOps Engine
 
 An end-to-end machine learning engineering and MLOps repository designed to identify high-risk subscription customers before they cancel, explain individual risk drivers, optimize retention campaign ROI, and monitor production data drift.
 
